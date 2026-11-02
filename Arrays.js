@@ -1,0 +1,1 @@
+let namearray = ["vaijo","maya","yash"]
